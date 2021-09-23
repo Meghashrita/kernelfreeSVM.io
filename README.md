@@ -1,3 +1,4 @@
 # kernelfreeSVM
 
-Titlelabel1(2)(2).pdf is the paper going to published in journal. Work is in progress
+
+KL2BIQP SVM_RESEARCH PAPER.pdf  is the paper going to published in journal. Work is in progress
